@@ -27,3 +27,9 @@ python -m pip install -r requirements-prework.txt
 2. Complete the work
 3. Push the branch and open a PR from your branch to `main`
 4. Submit the PR URL in TalentLMS
+
+
+## When to use each
+
+- **Notebooks:** Great for data exploration, visualization, and debugging.
+- **Scripts:** Ideal for production, automation, and building complex systems.
